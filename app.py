@@ -144,3 +144,4 @@ with tab2:
             st.success(f"✅ Added {add_name} to {add_day} > {add_meal}")
         else:
             st.error("❌ Please fill all fields.")
+
